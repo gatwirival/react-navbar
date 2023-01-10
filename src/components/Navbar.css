@@ -1,0 +1,53 @@
+.mid {
+	background-color:darkgray;
+	display: inline-block;
+	width: 81%;
+	margin: auto;
+}
+
+.navbar{
+display:inline-block;
+}
+
+.navbar li{
+
+list-style: none;
+display:inline-block;
+margin:auto;
+}
+
+.navbar li a{
+text-decoration: none;
+color:white;
+font-size: 18px;
+padding:16px;
+}
+
+.navbar li a:hover{
+color:rgb(151, 7, 247);
+border: darkmagenta;
+border-radius: 2px;
+font-size: 20px;
+}
+
+.navbar li a:active{
+background-color: darkgrey;
+border-radius: 5px;
+}
+
+.left {
+background-color:darkgrey;
+display: inline-block;
+width: 16%;
+font-size: 18px;
+padding: 16px;
+margin: auto;
+color: white;
+}
+.left a{
+text-decoration:none;
+color: white;
+}
+.left:hover{
+font-weight:bolder;
+}
